@@ -1,0 +1,20 @@
+.app { 
+    background-color:aquamarine;
+    padding:10px;
+    height:auto;
+    width:auto;
+;
+    
+}
+.active {
+    color: brown;
+
+}
+.input {
+    display:flex;
+}
+.list {
+    list-style: none;
+    display: flex;
+    
+}
